@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 👨‍💻 All of my progress [www.linkedin.com/in/preetipatil2026](www.linkedin.com/in/preetipatil2026)
+- 👨‍💻 Connect with me at: [www.linkedin.com/in/preetipatil2026](www.linkedin.com/in/preetipatil2026)
 
-- 💬 Ask me **I'm a Java-full-stack developer focused on buliding and learning every single day**
+- 💬 A **I'm a Java-full-stack developer focused on buliding and learning every single day**
 
-- 📫 How to reach me **preetipatil559@gmail.com**
+- 📫  to reach me **preetipatil559@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
