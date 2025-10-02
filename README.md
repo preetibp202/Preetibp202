@@ -7,7 +7,7 @@
 
 - 👨‍💻 Connect with me at: [www.linkedin.com/in/preetipatil2026](www.linkedin.com/in/preetipatil2026)
 
-- 💬 A **I'm a Java-full-stack developer focused on buliding and learning every single day**
+- 💬  **I'm a Java-full-stack developer focused on buliding and learning every single day**
 
 - 📫  to reach me **preetipatil559@gmail.com**
 
